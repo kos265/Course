@@ -1,0 +1,15 @@
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\bin\Release\Курсовая.exe.config
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\bin\Release\Курсовая.exe
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\bin\Release\Курсовая.pdb
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\MainWindow.baml
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Game.g.cs
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\MainWindow.g.cs
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\App.g.cs
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая_MarkupCompile.cache
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая_MarkupCompile.lref
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Game.baml
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая.g.resources
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая.Properties.Resources.resources
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая.csproj.GenerateResource.Cache
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая.exe
+c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Release\Курсовая.pdb
