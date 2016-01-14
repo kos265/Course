@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Курсовая"
         mc:Ignorable="d"
-        Title="Game" Height="300" Width="300">
-    <Grid>
-        
-    </Grid>
+        Title="Сапёр" Height="300" Width="300">
+    <WrapPanel Name="playField" Height="200" Width="200">
+
+    </WrapPanel>
 </Window>

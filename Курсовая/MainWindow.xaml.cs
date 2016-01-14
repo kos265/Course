@@ -103,8 +103,34 @@ namespace Курсовая
         private void button_click(object sender, RoutedEventArgs e)
         {
             width = int.Parse(textBox1.Text);
+            if (width > 65)
+            {
+                width = 65;
+            }
+            if (width < 5)
+            {
+                width = 5;
+            }
             heigth = int.Parse(textBox2.Text);
+            if (heigth > 35)
+            {
+                heigth = 35;
+            }
+            if (heigth < 5)
+            {
+                heigth = 5;
+            }
             number = int.Parse(textBox3.Text);
+            if (number > width * heigth * 0.7)
+            {
+                double x = width * heigth * 0.7;
+                number = (int)x;
+            }
+            if (number < width * heigth * 0.1)
+            {
+                double x = width * heigth * 0.1;
+                number = (int)x;
+            }
             Game game = new Game(width, heigth, number);
             game.Show();
             this.Close();

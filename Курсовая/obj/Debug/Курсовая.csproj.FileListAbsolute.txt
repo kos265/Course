@@ -14,3 +14,19 @@ c:\users\валентин\documents\visual studio 2015\Projects\Курсовая
 c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Debug\Game.baml
 c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.exe
 c:\users\валентин\documents\visual studio 2015\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\kos65\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\kos65\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\kos65\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\MainWindow.baml
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Game.g.cs
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\MainWindow.g.cs
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\App.g.cs
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая_MarkupCompile.cache
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая_MarkupCompile.lref
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Game.baml
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.g.resources
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\kos65\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
